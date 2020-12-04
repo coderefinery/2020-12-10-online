@@ -17,6 +17,13 @@ and/or ask for help to translate these instructions to work on your system.
 - [(optional) Visual diff tools](https://coderefinery.github.io/installation/difftools/)
 - [Zoom](https://coderefinery.github.io/installation/zoom/)
 
+Please **read the first episode of our course**: [Motivation for version control](https://coderefinery.github.io/git-intro/01-motivation/) (10 min read).
+
+Please try to **make a first commit before the course starts** (20 min, ["Tracking a guacamole
+recipe with
+Git"](https://coderefinery.github.io/git-intro/02-basics/#type-along-tracking-a-guacamole-recipe-with-git)
+up to right before "Exercise: record changes").
+
 
 ### Schedule
 
