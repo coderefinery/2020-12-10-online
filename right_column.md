@@ -5,17 +5,17 @@
 You need to **install some software** before the workshop
 ([why we ask you to do this](https://coderefinery.github.io/installation/#why-are-we-asking-participants-to-install-software)).
 
-You also need to **check your Git configuration**
-([video: how to configure Git](https://www.youtube.com/watch?v=WdDTp8NeHBs&list=PLpLblYHCzJACyKCfHnPwRruOxllNoHsEg)).
-If you have an institutional laptop with limited rights, start in advance
-and/or ask for help to translate these instructions to work on your system.
-
 - [Bash](https://coderefinery.github.io/installation/bash/)
 - [Editor](https://coderefinery.github.io/installation/editors/)
 - [Git](https://coderefinery.github.io/installation/git/), including
   some **configuration**
 - [(optional) Visual diff tools](https://coderefinery.github.io/installation/difftools/)
 - [Zoom](https://coderefinery.github.io/installation/zoom/)
+
+You also need to **check your Git configuration**
+([video: how to configure Git](https://www.youtube.com/watch?v=WdDTp8NeHBs&list=PLpLblYHCzJACyKCfHnPwRruOxllNoHsEg)).
+If you have an institutional laptop with limited rights, start in advance
+and/or ask for help to translate these instructions to work on your system.
 
 Please **read the first episode of our course**: [Motivation for version control](https://coderefinery.github.io/git-intro/01-motivation/) (10 min read).
 
