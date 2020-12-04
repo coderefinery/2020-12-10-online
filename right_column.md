@@ -9,6 +9,7 @@ You need to **install some software** before the workshop
 - [Editor](https://coderefinery.github.io/installation/editors/)
 - [Git](https://coderefinery.github.io/installation/git/), including
   some **configuration**
+- [GitHub account](https://github.com/)
 - [(optional) Visual diff tools](https://coderefinery.github.io/installation/difftools/)
 - [Zoom](https://coderefinery.github.io/installation/zoom/)
 
