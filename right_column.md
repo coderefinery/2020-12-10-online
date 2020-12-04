@@ -18,6 +18,8 @@ You also need to **check your Git configuration**
 If you have an institutional laptop with limited rights, start in advance
 and/or ask for help to translate these instructions to work on your system.
 
+Please connect briefly during the **installation help** session to check your setup (see below).
+
 Please **read the first episode of our course**: [Motivation for version control](https://coderefinery.github.io/git-intro/01-motivation/) (10 min read).
 
 Please try to **make a first commit before the course starts** (20 min, ["Tracking a guacamole
@@ -27,6 +29,9 @@ up to right before "Exercise: record changes").
 
 
 ### Schedule
+
+- December 9: 9:00 - 11:00 CET
+  - Installation/configuration help
 
 - December 10: 12:00 - 15:00 CET
   - Introduction to Git
