@@ -1,5 +1,5 @@
-# Title
+# Introduction to collaborative version control with Git
 
-### Subtitle
+### Online workshop in cooperation with SINTEF
 
 ---
