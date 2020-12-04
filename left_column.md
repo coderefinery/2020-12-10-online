@@ -6,6 +6,12 @@ This workshop is funded by SINTEF and at the registration
 is not open for this event.
 
 
+### Video connection
+
+We will use [Zoom](https://coderefinery.github.io/installation/zoom/).
+Connection details are communicated directly to workshop participants.
+
+
 ### Contact
 
 radovan.bast@uit.no
