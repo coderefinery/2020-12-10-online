@@ -34,13 +34,22 @@ up to right before "Exercise: record changes").
   - Installation/configuration help
 
 - December 10: 12:00 - 15:00 CET
-  - Introduction to Git
-  - Branching and merging
-  - History inspection
-  - Organizing branches
+  - 12:00 - 12:50
+    - [Introduction to Git](https://coderefinery.github.io/git-intro/02-basics/)
+    - [Branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
+  - 13:00 - 13:50
+    - [More branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
+    - [Conflict resolution](https://coderefinery.github.io/git-intro/08-conflicts/)
+  - 14:00 - 15:00
+    - [History inspection](https://coderefinery.github.io/git-intro/10-archaeology/)
+    - [Organizing branches](https://coderefinery.github.io/git-intro/14-level/)
 
 - December 11: 9:00 - 12:00 CET
-  - Collaboration
-  - Working with remotes
-  - Code review
-  - Organizing collaborative projects
+  - 9:00 - 9:50
+    - [Collaboration](https://coderefinery.github.io/git-collaborative/01-remotes/)
+    - [Publishing and cloning repositories](https://coderefinery.github.io/git-intro/09-remotes/)
+  - 10:00 - 10:50
+    - [Working with remotes and code review](https://coderefinery.github.io/git-collaborative/02-centralized/)
+  - 11:00 - 12:00
+    - [More working with remotes and code review](https://coderefinery.github.io/git-collaborative/02-centralized/)
+    - [Organizing collaborative projects](https://coderefinery.github.io/git-collaborative/04-contributing/)
