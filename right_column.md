@@ -41,13 +41,13 @@ up to right before "Exercise: record changes").
     - [More branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
     - [Conflict resolution](https://coderefinery.github.io/git-intro/08-conflicts/)
   - 14:00 - 15:00
-    - [History inspection](https://coderefinery.github.io/git-intro/10-archaeology/)
     - [Organizing branches](https://coderefinery.github.io/git-intro/14-level/)
+    - Discussion about collaboration models
 
 - December 11: 9:00 - 12:00 CET
   - 9:00 - 9:50
-    - [Collaboration](https://coderefinery.github.io/git-collaborative/01-remotes/)
     - [Publishing and cloning repositories](https://coderefinery.github.io/git-intro/09-remotes/)
+    - [History inspection](https://coderefinery.github.io/git-intro/10-archaeology/)
   - 10:00 - 10:50
     - [Working with remotes and code review](https://coderefinery.github.io/git-collaborative/02-centralized/)
   - 11:00 - 12:00
